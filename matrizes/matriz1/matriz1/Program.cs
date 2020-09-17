@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace matriz1
+namespace quant_negativos
 {
     class Program
     {
