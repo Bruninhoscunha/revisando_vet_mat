@@ -1,0 +1,11 @@
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.exe
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.deps.json
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.runtimeconfig.json
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.runtimeconfig.dev.json
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.dll
+C:\revisãologica\aprovados\aprovados\bin\Debug\netcoreapp3.1\aprovados.pdb
+C:\revisãologica\aprovados\aprovados\obj\Debug\netcoreapp3.1\aprovados.csprojAssemblyReference.cache
+C:\revisãologica\aprovados\aprovados\obj\Debug\netcoreapp3.1\aprovados.AssemblyInfoInputs.cache
+C:\revisãologica\aprovados\aprovados\obj\Debug\netcoreapp3.1\aprovados.AssemblyInfo.cs
+C:\revisãologica\aprovados\aprovados\obj\Debug\netcoreapp3.1\aprovados.dll
+C:\revisãologica\aprovados\aprovados\obj\Debug\netcoreapp3.1\aprovados.pdb

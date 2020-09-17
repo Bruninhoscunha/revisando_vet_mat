@@ -1,0 +1,11 @@
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.exe
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.deps.json
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.runtimeconfig.json
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.runtimeconfig.dev.json
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.dll
+C:\revisãologica\vetpares\vetpares\bin\Debug\netcoreapp3.1\vetpares.pdb
+C:\revisãologica\vetpares\vetpares\obj\Debug\netcoreapp3.1\vetpares.csprojAssemblyReference.cache
+C:\revisãologica\vetpares\vetpares\obj\Debug\netcoreapp3.1\vetpares.AssemblyInfoInputs.cache
+C:\revisãologica\vetpares\vetpares\obj\Debug\netcoreapp3.1\vetpares.AssemblyInfo.cs
+C:\revisãologica\vetpares\vetpares\obj\Debug\netcoreapp3.1\vetpares.dll
+C:\revisãologica\vetpares\vetpares\obj\Debug\netcoreapp3.1\vetpares.pdb

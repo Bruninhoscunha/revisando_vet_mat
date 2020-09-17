@@ -1,0 +1,11 @@
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.exe
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.deps.json
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.json
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.dev.json
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.dll
+C:\revisãologica\media\media\bin\Debug\netcoreapp3.1\media.pdb
+C:\revisãologica\media\media\obj\Debug\netcoreapp3.1\media.csprojAssemblyReference.cache
+C:\revisãologica\media\media\obj\Debug\netcoreapp3.1\media.AssemblyInfoInputs.cache
+C:\revisãologica\media\media\obj\Debug\netcoreapp3.1\media.AssemblyInfo.cs
+C:\revisãologica\media\media\obj\Debug\netcoreapp3.1\media.dll
+C:\revisãologica\media\media\obj\Debug\netcoreapp3.1\media.pdb

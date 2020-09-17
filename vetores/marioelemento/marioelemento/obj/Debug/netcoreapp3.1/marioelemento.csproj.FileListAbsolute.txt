@@ -1,0 +1,11 @@
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.exe
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.deps.json
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.runtimeconfig.json
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.runtimeconfig.dev.json
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.dll
+C:\revisãologica\marioelemento\marioelemento\bin\Debug\netcoreapp3.1\marioelemento.pdb
+C:\revisãologica\marioelemento\marioelemento\obj\Debug\netcoreapp3.1\marioelemento.csprojAssemblyReference.cache
+C:\revisãologica\marioelemento\marioelemento\obj\Debug\netcoreapp3.1\marioelemento.AssemblyInfoInputs.cache
+C:\revisãologica\marioelemento\marioelemento\obj\Debug\netcoreapp3.1\marioelemento.AssemblyInfo.cs
+C:\revisãologica\marioelemento\marioelemento\obj\Debug\netcoreapp3.1\marioelemento.dll
+C:\revisãologica\marioelemento\marioelemento\obj\Debug\netcoreapp3.1\marioelemento.pdb

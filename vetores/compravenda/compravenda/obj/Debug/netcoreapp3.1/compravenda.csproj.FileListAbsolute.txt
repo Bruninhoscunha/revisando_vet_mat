@@ -1,0 +1,11 @@
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.exe
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.deps.json
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.runtimeconfig.json
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.runtimeconfig.dev.json
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.dll
+C:\revisãologica\compravenda\compravenda\bin\Debug\netcoreapp3.1\compravenda.pdb
+C:\revisãologica\compravenda\compravenda\obj\Debug\netcoreapp3.1\compravenda.csprojAssemblyReference.cache
+C:\revisãologica\compravenda\compravenda\obj\Debug\netcoreapp3.1\compravenda.AssemblyInfoInputs.cache
+C:\revisãologica\compravenda\compravenda\obj\Debug\netcoreapp3.1\compravenda.AssemblyInfo.cs
+C:\revisãologica\compravenda\compravenda\obj\Debug\netcoreapp3.1\compravenda.dll
+C:\revisãologica\compravenda\compravenda\obj\Debug\netcoreapp3.1\compravenda.pdb

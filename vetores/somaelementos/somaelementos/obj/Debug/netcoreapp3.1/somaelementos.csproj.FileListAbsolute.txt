@@ -1,0 +1,11 @@
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.exe
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.deps.json
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.runtimeconfig.json
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.runtimeconfig.dev.json
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.dll
+C:\revisãologica\somaelementos\somaelementos\bin\Debug\netcoreapp3.1\somaelementos.pdb
+C:\revisãologica\somaelementos\somaelementos\obj\Debug\netcoreapp3.1\somaelementos.csprojAssemblyReference.cache
+C:\revisãologica\somaelementos\somaelementos\obj\Debug\netcoreapp3.1\somaelementos.AssemblyInfoInputs.cache
+C:\revisãologica\somaelementos\somaelementos\obj\Debug\netcoreapp3.1\somaelementos.AssemblyInfo.cs
+C:\revisãologica\somaelementos\somaelementos\obj\Debug\netcoreapp3.1\somaelementos.dll
+C:\revisãologica\somaelementos\somaelementos\obj\Debug\netcoreapp3.1\somaelementos.pdb

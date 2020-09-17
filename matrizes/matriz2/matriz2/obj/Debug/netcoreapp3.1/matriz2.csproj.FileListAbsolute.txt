@@ -1,0 +1,11 @@
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.exe
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.deps.json
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.runtimeconfig.json
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.runtimeconfig.dev.json
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.dll
+C:\revisãologica\matrizes\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.pdb
+C:\revisãologica\matrizes\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.csprojAssemblyReference.cache
+C:\revisãologica\matrizes\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.AssemblyInfoInputs.cache
+C:\revisãologica\matrizes\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.AssemblyInfo.cs
+C:\revisãologica\matrizes\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.dll
+C:\revisãologica\matrizes\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.pdb

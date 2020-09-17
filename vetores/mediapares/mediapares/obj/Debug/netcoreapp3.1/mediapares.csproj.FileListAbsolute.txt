@@ -1,0 +1,11 @@
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.exe
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.deps.json
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.runtimeconfig.json
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.runtimeconfig.dev.json
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.dll
+C:\revisãologica\mediapares\mediapares\bin\Debug\netcoreapp3.1\mediapares.pdb
+C:\revisãologica\mediapares\mediapares\obj\Debug\netcoreapp3.1\mediapares.csprojAssemblyReference.cache
+C:\revisãologica\mediapares\mediapares\obj\Debug\netcoreapp3.1\mediapares.AssemblyInfoInputs.cache
+C:\revisãologica\mediapares\mediapares\obj\Debug\netcoreapp3.1\mediapares.AssemblyInfo.cs
+C:\revisãologica\mediapares\mediapares\obj\Debug\netcoreapp3.1\mediapares.dll
+C:\revisãologica\mediapares\mediapares\obj\Debug\netcoreapp3.1\mediapares.pdb

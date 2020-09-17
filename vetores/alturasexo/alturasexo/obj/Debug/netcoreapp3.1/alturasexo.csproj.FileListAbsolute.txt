@@ -1,0 +1,11 @@
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.exe
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.deps.json
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.runtimeconfig.json
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.runtimeconfig.dev.json
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.dll
+C:\revisãologica\alturasexo\alturasexo\bin\Debug\netcoreapp3.1\alturasexo.pdb
+C:\revisãologica\alturasexo\alturasexo\obj\Debug\netcoreapp3.1\alturasexo.csprojAssemblyReference.cache
+C:\revisãologica\alturasexo\alturasexo\obj\Debug\netcoreapp3.1\alturasexo.AssemblyInfoInputs.cache
+C:\revisãologica\alturasexo\alturasexo\obj\Debug\netcoreapp3.1\alturasexo.AssemblyInfo.cs
+C:\revisãologica\alturasexo\alturasexo\obj\Debug\netcoreapp3.1\alturasexo.dll
+C:\revisãologica\alturasexo\alturasexo\obj\Debug\netcoreapp3.1\alturasexo.pdb

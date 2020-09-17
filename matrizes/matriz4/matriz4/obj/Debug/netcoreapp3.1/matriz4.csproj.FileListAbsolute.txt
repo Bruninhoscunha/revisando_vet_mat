@@ -1,0 +1,11 @@
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.exe
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.deps.json
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.runtimeconfig.json
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.runtimeconfig.dev.json
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.dll
+C:\revisãologica\matrizes\matriz4\matriz4\bin\Debug\netcoreapp3.1\matriz4.pdb
+C:\revisãologica\matrizes\matriz4\matriz4\obj\Debug\netcoreapp3.1\matriz4.csprojAssemblyReference.cache
+C:\revisãologica\matrizes\matriz4\matriz4\obj\Debug\netcoreapp3.1\matriz4.AssemblyInfoInputs.cache
+C:\revisãologica\matrizes\matriz4\matriz4\obj\Debug\netcoreapp3.1\matriz4.AssemblyInfo.cs
+C:\revisãologica\matrizes\matriz4\matriz4\obj\Debug\netcoreapp3.1\matriz4.dll
+C:\revisãologica\matrizes\matriz4\matriz4\obj\Debug\netcoreapp3.1\matriz4.pdb

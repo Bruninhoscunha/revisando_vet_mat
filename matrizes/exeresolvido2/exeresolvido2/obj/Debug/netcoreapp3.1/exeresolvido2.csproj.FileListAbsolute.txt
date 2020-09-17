@@ -1,0 +1,11 @@
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.exe
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.deps.json
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.runtimeconfig.json
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.runtimeconfig.dev.json
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.dll
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\bin\Debug\netcoreapp3.1\exeresolvido2.pdb
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\obj\Debug\netcoreapp3.1\exeresolvido2.csprojAssemblyReference.cache
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\obj\Debug\netcoreapp3.1\exeresolvido2.AssemblyInfoInputs.cache
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\obj\Debug\netcoreapp3.1\exeresolvido2.AssemblyInfo.cs
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\obj\Debug\netcoreapp3.1\exeresolvido2.dll
+C:\revisãologica\matrizes\exeresolvido2\exeresolvido2\obj\Debug\netcoreapp3.1\exeresolvido2.pdb

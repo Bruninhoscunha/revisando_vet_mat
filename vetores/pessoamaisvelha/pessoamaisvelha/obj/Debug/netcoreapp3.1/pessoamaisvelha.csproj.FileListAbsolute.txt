@@ -1,0 +1,11 @@
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.exe
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.deps.json
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.runtimeconfig.json
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.runtimeconfig.dev.json
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.dll
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\bin\Debug\netcoreapp3.1\pessoamaisvelha.pdb
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\obj\Debug\netcoreapp3.1\pessoamaisvelha.csprojAssemblyReference.cache
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\obj\Debug\netcoreapp3.1\pessoamaisvelha.AssemblyInfoInputs.cache
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\obj\Debug\netcoreapp3.1\pessoamaisvelha.AssemblyInfo.cs
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\obj\Debug\netcoreapp3.1\pessoamaisvelha.dll
+C:\revisãologica\pessoamaisvelha\pessoamaisvelha\obj\Debug\netcoreapp3.1\pessoamaisvelha.pdb
