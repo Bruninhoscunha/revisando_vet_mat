@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace quant_negativos
+namespace numeros_negativos
 {
     class Program
     {
